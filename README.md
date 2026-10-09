@@ -1,34 +1,45 @@
-Rajat Singh | Data Analytics Portfolio
+📊 Data Analytics Portfolio
 
-👋 Hi, I'm Rajat Singh!
+Hi, I'm Rajat Singh!
 
-I'm building my skills in Data Analytics and Data Science, with a focus on turning raw data into meaningful business insights.
+I'm developing my skills in Data Analytics and Data Science by learning, practicing, and building hands-on projects.
 
-🛠️ Skills & Tools
+🛠️ Tools & Technologies
 
 - Python
 - SQL
 - Microsoft Excel
 - Power BI
 - Tableau
-- Pandas & NumPy
+- Pandas and NumPy
+- Scikit-learn
 
-📊 Areas of Interest
+🚀 My Projects
 
-- Data Cleaning & Exploratory Data Analysis
-- Business Intelligence & Dashboards
-- SQL-Based Data Analysis
-- Statistical Analysis
-- Machine Learning
+This repository will showcase my practical data analytics projects as I complete them.
 
-🎯 My Goal
+Each project will aim to include:
 
-To solve real-world business problems using data, develop practical analytics projects, and continuously improve my technical and analytical skills.
+- Problem Statement
+- Dataset and Data Cleaning
+- Exploratory Data Analysis
+- Visualizations and Dashboards
+- Key Findings
+- Business Recommendations
 
-🚀 My Portfolio
+🎯 Current Learning Goals
 
-This repository will showcase my hands-on data analytics projects, analysis, visualizations, and key business insights.
+- Strengthening SQL and Python skills
+- Performing exploratory data analysis
+- Building interactive dashboards
+- Applying statistics and machine learning
+- Solving real-world business problems using data
+
+🤝 Connect With Me
+
+- LinkedIn: "Rajat Singh" (https://www.linkedin.com/in/rajat-singh-13494231/)
+- GitHub: "Rajat-Singh-Source" (https://github.com/Rajat-Singh-Source)
 
 ---
 
-Learning by doing. Building one project at a time.
+Learning by doing. Building projects one step at a time.
