@@ -15,15 +15,24 @@ Executive Diploma in Data Science & AI — IIIT Bangalore (upGrad) · BSc PCM, C
 
 | # | Project | Focus | Stack | Outcome |
 |---|---|---|---|---|
-| 1 | [Customer Satisfaction Prediction — Olist](01-customer-satisfaction-olist) | Classification, explainability | Python, LightGBM, SHAP/LIME | 0.715 ROC-AUC · 72.5% recall on dissatisfied orders (95,823 orders) |
-| 2 | [Namma Yatri — Ride & Revenue Analysis](02-namma-yatri) | Product/ops analytics | Python, SQL, Power BI, Tableau | 45.5% completion rate; 48.2% customer vs 47.3% driver cancellations |
-| 3 | [CardioRisk — CVD Prediction](03-cardiorisk-prediction) | Model selection, overfitting control | scikit-learn | Test AUC 0.773 · recall 0.716 · train–test gap cut to 1.7 pts |
+| 1 | [Customer Satisfaction Prediction — Olist](https://github.com/Rajat-Singh-Source/olist-customer-satisfaction) | Classification, explainability | Python, LightGBM, SHAP/LIME | 0.715 ROC-AUC · 72.5% recall on dissatisfied orders (95,823 orders) |
+| 2 | [Namma Yatri — Ride & Revenue Analysis](https://github.com/Rajat-Singh-Source/namma-yatri-ride-analysis) | Product/ops analytics | Python, SQL, Power BI, Tableau | 45.5% completion rate; 48.2% customer vs 47.3% driver cancellations |
+| 3 | [CardioRisk — CVD Prediction](https://github.com/Rajat-Singh-Source/cardiorisk-cvd-prediction) | Model selection, overfitting control | scikit-learn | Test AUC 0.773 · recall 0.716 · train–test gap cut to 1.7 pts |
 | 4 | [NYC Yellow Taxi — Operations EDA](04-nyc-taxi-eda) | Large-scale EDA | Pandas, Matplotlib, Seaborn | ~1.89M trips analysed; demand, fare and zone insights |
 | 5 | [Bank Data Analysis — PySpark ETL](05-bank-etl-pyspark) | Big-data ETL | PySpark, Pandas | Currency-normalised market-cap dataset and concentration analysis |
 | 6 | [Used Car Price Prediction](06-car-price-regression) | Regularised regression | Ridge, Lasso | Test R² ≈ 0.92 with tuned regularisation |
 
-Each folder contains a project `README.md` (problem, data, approach, results), the
-notebook(s), and the written report.
+Each project has a dedicated README covering problem, data, approach and results.
+Projects 1–3 live in their own repositories; 4–6 are folders in this repo.
+
+## 🗂️ Repositories
+
+| Repository | Focus |
+|---|---|
+| [olist-customer-satisfaction](https://github.com/Rajat-Singh-Source/olist-customer-satisfaction) | Order-level satisfaction prediction (LightGBM, SHAP/LIME) |
+| [namma-yatri-ride-analysis](https://github.com/Rajat-Singh-Source/namma-yatri-ride-analysis) | Ride demand, revenue and cancellation funnel |
+| [cardiorisk-cvd-prediction](https://github.com/Rajat-Singh-Source/cardiorisk-cvd-prediction) | CVD risk classification and model selection |
+| [data-analytics-portfolio](https://github.com/Rajat-Singh-Source/data-analytics-portfolio) | Remaining projects: NYC taxi EDA, PySpark bank ETL, car price regression |
 
 ## 💼 Experience
 
@@ -51,9 +60,6 @@ assessments and intervention plans.
 ## 📁 Repo structure
 
 ```
-├── 01-customer-satisfaction-olist/   # capstone: satisfaction model + report
-├── 02-namma-yatri/                   # ride demand, revenue, cancellation funnel
-├── 03-cardiorisk-prediction/         # CVD risk classification
 ├── 04-nyc-taxi-eda/                  # NYC yellow taxi operations EDA
 ├── 05-bank-etl-pyspark/              # PySpark ETL on banking data
 └── 06-car-price-regression/          # regularised price prediction
